@@ -32,13 +32,13 @@ O aplicativo possui as seguintes funcionalidades:
 
 | Tela Inicial                               | Modal de Sucesso                              |
 | ------------------------------------------ | --------------------------------------------- |
-| ![tela-inicial](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/blob/main/docs/tela-inicial.jpeg?raw=true) | ![modal-sucesso](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/blob/main/docs/modal-sucesso.jpeg?raw=true) |
+| ![tela-inicial](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/assets/tela-inicial.jpeg?raw=true) | ![modal-sucesso](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/assets/modal-sucesso.jpeg?raw=true) |
 
 <br/>
 
 | Formulário |
 |:---:|
-| ![tela-form](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/blob/main/docs/tela-form.jpeg?raw=true) |
+| ![tela-form](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/assets/tela-form.jpeg?raw=true) |
 
 ---
 
