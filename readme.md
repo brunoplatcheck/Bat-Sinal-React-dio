@@ -8,7 +8,7 @@
 
 ### Visão Geral
 
-Este projeto é a solução para o **Desafio do Bat Sinal**, proposto pelo instrutor Felipão e a plataforma **DIO**. O objetivo foi criar um aplicativo mobile utilizando React Native e Expo com duas telas principais: uma tela inicial com um botão para ativar o sinal e uma tela de formulário para coletar dados. [cite_start]A tela pode ser personalizada à vontade, então foi aplicado um design com tema escuro e elementos visuais do universo do Batman. [cite: 7]
+Este projeto é a solução para o **Desafio do Bat Sinal**, proposto pelo instrutor Felipão e a plataforma **DIO**. O objetivo foi criar um aplicativo mobile utilizando React Native e Expo com duas telas principais: uma tela inicial com um botão para ativar o sinal e uma tela de formulário para coletar dados. A tela pode ser personalizada à vontade, então foi aplicado um design com tema escuro e elementos visuais do universo do Batman.
 
 ---
 
@@ -16,10 +16,10 @@ Este projeto é a solução para o **Desafio do Bat Sinal**, proposto pelo instr
 
 O aplicativo possui as seguintes funcionalidades:
 
-* [cite_start]**Telas:** Implementação de duas telas, uma de ativação (TELA 1) e um formulário (TELA 2). [cite: 5, 19]
-* [cite_start]**Navegação Simples:** Ao clicar no botão "Ativar BatSinal", a tela de ativação é substituída pelo formulário. [cite: 4, 7]
+* **Telas:** Implementação de duas telas, uma de ativação (TELA 1) e um formulário (TELA 2).
+* **Navegação Simples:** Ao clicar no botão "Ativar BatSinal", a tela de ativação é substituída pelo formulário.
 * **Design Personalizado:** Tema escuro com fundo preto, texto principal branco e botões com cores contrastantes (amarelo e azul).
-* [cite_start]**Formulário:** Coleta de dados como nome, telefone, localização e observação, conforme o desafio. [cite: 21]
+* **Formulário:** Coleta de dados como nome, telefone, localização e observação, conforme o desafio.
 * **Persistência de Dados:** Os dados inseridos no formulário são salvos localmente no dispositivo em formato JSON utilizando `AsyncStorage`.
 * **Alerta de Sucesso Personalizado:** Em vez do alerta nativo, um modal customizado é exibido para confirmar o sucesso do envio. O modal é quadrado, com borda amarela, fundo cinza e texto azul, e um botão "OK" azul com texto amarelo.
 * **Feedback Visual:** A imagem do radar é exibida na tela inicial, entre o logo do Batman e o botão.
@@ -32,13 +32,13 @@ O aplicativo possui as seguintes funcionalidades:
 
 | Tela Inicial                               | Modal de Sucesso                              |
 | ------------------------------------------ | --------------------------------------------- |
-| ![tela-inicial](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/main/assets/tela-inicial.jpeg?raw=true) | ![modal-sucesso](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/main/assets/modal-sucesso.jpeg?raw=true) |
+| ![tela-inicial](https://raw.githubusercontent.com/brunoplatcheck/Bat-Sinal-React-dio/main/assets/tela-inicial.jpeg) | ![modal-sucesso](https://raw.githubusercontent.com/brunoplatcheck/Bat-Sinal-React-dio/main/assets/modal-sucesso.jpeg) |
 
 <br/>
 
 | Formulário |
 |:---:|
-| ![tela-form](https://github.com/brunoplatcheck/Bat-Sinal-React-dio/main/assets/tela-form.jpeg?raw=true) |
+| ![tela-form](https://raw.githubusercontent.com/brunoplatcheck/Bat-Sinal-React-dio/main/assets/tela-form.jpeg) |
 
 ---
 
@@ -80,5 +80,3 @@ Para clonar e rodar o projeto em seu ambiente local:
     ```
 
 ---
-
-
